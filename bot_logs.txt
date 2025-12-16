@@ -1,0 +1,9 @@
+[16.12.2025 21:04] thunder9hawk added 3762750232 as leader in test - test
+[16.12.2025 21:05] thunder9hawk removed 3762750232 from leader
+[16.12.2025 21:12] Error: CommandInvokeError: Command raised an exception: AttributeError: 'coroutine' object has no attribute 'to_dict'
+[16.12.2025 21:19] thunder9hawk added 3762750232 as deputie in test - test
+[16.12.2025 21:20] thunder9hawk removed 3762750232 from deputie
+[16.12.2025 21:20] thunder9hawk added ssk05681 as leader in test - test
+[16.12.2025 21:21] thunder9hawk removed ssk05681 from leader
+[16.12.2025 21:43] thunder9hawk додав(ла) 3762750232 як керівника у test - test
+[16.12.2025 21:45] Error: CommandInvokeError: Command raised an exception: AttributeError: type object 'Embed' has no attribute 'Empty'

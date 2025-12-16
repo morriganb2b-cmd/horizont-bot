@@ -1,0 +1,21 @@
+{
+  "leaders": {
+    "376275": {
+      "організація": "test",
+      "посада": "test",
+      "appointment_date": "16.12.2025 21:43",
+      "appointed_by": "thunder9hawk",
+      "warnings": [],
+      "reprimands": [],
+      "activity": "Актив��ий",
+      "last_activity": "16.12.2025 21:43"
+    }
+  },
+  "deputies": {},
+  "news": [],
+  "settings": {
+    "total_commands": 17,
+    "last_news_cleanup": "16.12.2025 22:02",
+    "bot_start_time": "16.12.2025 22:02"
+  }
+}
